@@ -41,6 +41,7 @@
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/nlp-tokenize": "^0.0.x",
     "@stdlib/string-capitalize": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/string-uncapitalize": "^0.0.x",
     "@stdlib/utils-keys": "^0.0.x"
   },
