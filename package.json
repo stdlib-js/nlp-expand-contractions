@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/nlp-expand-contractions",
+  "version": "0.0.0",
+  "description": "Expand contractions.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/nlp-expand-contractions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdstring",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "text",
+    "mining",
+    "nlp",
+    "contractions"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
