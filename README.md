@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/nlp-expand-contractions/tags). For example,
+
+```javascript
 import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.1.0-esm/index.mjs';
 ```
 
@@ -87,7 +92,7 @@ var out = expandContractions( str );
 <body>
 <script type="module">
 
-import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.1.0-esm/index.mjs';
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@esm/index.mjs';
 
 var str = 'I won\'t be able to, sorry.';
 var out = expandContractions( str );
