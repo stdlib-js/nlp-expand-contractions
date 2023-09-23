@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@esm/index.mjs';
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.1.0-esm/index.mjs';
 ```
 
 #### expandContractions( str )
@@ -87,7 +87,7 @@ var out = expandContractions( str );
 <body>
 <script type="module">
 
-import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@esm/index.mjs';
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.1.0-esm/index.mjs';
 
 var str = 'I won\'t be able to, sorry.';
 var out = expandContractions( str );
