@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/nlp-expand-contractions/tags). For example,
+
+```javascript
 import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.2.0-deno/mod.js';
 ```
 
@@ -82,7 +87,7 @@ var out = expandContractions( str );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.2.0-deno/mod.js';
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@deno/mod.js';
 
 var str = 'I won\'t be able to, sorry.';
 var out = expandContractions( str );
