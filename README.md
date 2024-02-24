@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@deno/mod.js';
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.2.1-deno/mod.js';
 ```
 
 #### expandContractions( str )
@@ -82,7 +82,7 @@ var out = expandContractions( str );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@deno/mod.js';
+import expandContractions from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-contractions@v0.2.1-deno/mod.js';
 
 var str = 'I won\'t be able to, sorry.';
 var out = expandContractions( str );
