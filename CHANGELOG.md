@@ -2,6 +2,55 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-01-29)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#9965](https://github.com/stdlib-js/stdlib/issues/9965)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d4045a4`](https://github.com/stdlib-js/stdlib/commit/d4045a4b6c1bc9ead77c9b03068aec27a6cb863c) - **chore:** fix JavaScript lint errors [(#9968)](https://github.com/stdlib-js/stdlib/pull/9968) _(by Suyash Pathak, Athan Reines)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Suyash Pathak
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
